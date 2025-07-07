@@ -1,8 +1,0 @@
-{
-  "templates": [
-    {
-      "name": "react-custom",
-      "description": "React + React Router + ErrorBoundary starter"
-    }
-  ]
-}
